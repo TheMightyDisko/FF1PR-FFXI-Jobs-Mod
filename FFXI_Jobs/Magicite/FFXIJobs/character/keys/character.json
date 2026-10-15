@@ -1,0 +1,30 @@
+{
+  "keys": [
+    "c001_warrior",
+    "c002_thief",
+    "c003_monk",
+    "c004_redmage",
+    "c005_whitemage",
+    "c006_blackmage",
+    "c007_warrior_af",
+    "c008_thief_af",
+    "c009_monk_af",
+    "c010_redmage_af",
+    "c011_whitemage_af",
+    "c012_blackmage_af"
+  ],
+  "values": [
+    "Assets/GameAssets/Serial/Res/Character/c001_warrior",
+    "Assets/GameAssets/Serial/Res/Character/c002_thief",
+    "Assets/GameAssets/Serial/Res/Character/c003_monk",
+    "Assets/GameAssets/Serial/Res/Character/c004_redmage",
+    "Assets/GameAssets/Serial/Res/Character/c005_whitemage",
+    "Assets/GameAssets/Serial/Res/Character/c006_blackmage",
+    "Assets/GameAssets/Serial/Res/Character/c007_warrior_af",
+    "Assets/GameAssets/Serial/Res/Character/c008_thief_af",
+    "Assets/GameAssets/Serial/Res/Character/c009_monk_af",
+    "Assets/GameAssets/Serial/Res/Character/c010_redmage_af",
+    "Assets/GameAssets/Serial/Res/Character/c011_whitemage_af",
+    "Assets/GameAssets/Serial/Res/Character/c012_blackmage_af"
+  ]
+}

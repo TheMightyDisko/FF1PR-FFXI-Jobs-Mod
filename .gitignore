@@ -1,0 +1,19 @@
+# Build & Temporary Files
+scratch/
+*.tmp
+*.bak
+*.log
+Assets_Temp/
+.vs/
+*.user
+*.suo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Large dumps or unneeded archives
+*.dump

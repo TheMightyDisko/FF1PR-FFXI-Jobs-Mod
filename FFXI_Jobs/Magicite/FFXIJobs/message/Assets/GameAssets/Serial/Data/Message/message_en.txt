@@ -1,0 +1,11 @@
+MSG_STORY_BAHAMUT_FFXI	Bahamut's ancient eyes gleam with recognition as you present the tail of the dragon...\n\n"Ah, brave wanderers who have tread the sacred soil of Vana'diel and endured the trials of the Crystal War. You who bear the blessing of the Goddess Altana within your spirits.\n\nTake now the mantle of your forebears. Adorn yourselves in the sacred Artifact Armor, and take your place as true Masters of your craft!"
+MSG_BATTLE_MIGHTY_STRIKES	The Warrior bellows with primal fury!\n[Mighty Strikes] activated! All strikes inflict critical damage!
+MSG_BATTLE_HUNDRED_FISTS	The Monk's fists blur into a blinding whirlwind!\n[Hundred Fists] activated! Maximum attack speed engaged!
+MSG_BATTLE_PERFECT_DODGE	The Thief slips into the shifting currents of air!\n[Perfect Dodge] activated! Complete physical evasion!
+MSG_BATTLE_CHAINSPELL	The Red Mage's rapier and sigil ignite with rapid light!\n[Chainspell] activated! All casting delay eliminated!
+MSG_BATTLE_BENEDICTION	The White Mage raises her staff in prayer to Altana!\n[Benediction] activated! The party is fully restored!
+MSG_BATTLE_MANAFONT	The Black Mage unleashes the unbounded abyss of magic!\n[Manafont] activated! All spells cast freely without cost!
+MSG_VICTORY_QUOTE_1	"For the Republic of Bastok! Iron and steam prevail!"
+MSG_VICTORY_QUOTE_2	"Windurst's star-trees shall sing of this victory!"
+MSG_VICTORY_QUOTE_3	"San d'Oria's honor remains untarnished and proud!"
+MSG_VICTORY_QUOTE_4	"The light of the Mother Crystals shines bright upon our path."

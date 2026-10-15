@@ -1,0 +1,22 @@
+{
+  "keys": [
+    "job",
+    "character_status",
+    "ability",
+    "magic",
+    "command",
+    "weapon",
+    "armor",
+    "growth_curve"
+  ],
+  "values": [
+    "Assets/GameAssets/Serial/Data/Master/job",
+    "Assets/GameAssets/Serial/Data/Master/character_status",
+    "Assets/GameAssets/Serial/Data/Master/ability",
+    "Assets/GameAssets/Serial/Data/Master/magic",
+    "Assets/GameAssets/Serial/Data/Master/command",
+    "Assets/GameAssets/Serial/Data/Master/weapon",
+    "Assets/GameAssets/Serial/Data/Master/armor",
+    "Assets/GameAssets/Serial/Data/Master/growth_curve"
+  ]
+}

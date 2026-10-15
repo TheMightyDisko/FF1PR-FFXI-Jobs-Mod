@@ -1,0 +1,10 @@
+{
+  "keys": [
+    "system_en",
+    "message_en"
+  ],
+  "values": [
+    "Assets/GameAssets/Serial/Data/Message/system_en",
+    "Assets/GameAssets/Serial/Data/Message/message_en"
+  ]
+}
